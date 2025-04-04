@@ -1,6 +1,11 @@
 # eGain Take Home
 
+
+
+
 ## Setup
+
+Note: if you don't wish to deploy this on your machine you can test it here [https://evan-nishi.github.io/eGain-Take-Home/](https://evan-nishi.github.io/eGain-Take-Home/)
 
 1. Clone the repo
 Clone the repo to your device.

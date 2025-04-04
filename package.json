@@ -2,7 +2,7 @@
   "name": "egain-take-home",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://{username}.github.io/{repo-name}/",
+  "homepage": "https://evan-nishi.github.io/eGain-Take-Home/",
   "type": "module",
   "scripts": {
     "dev": "vite",
